@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_titulo">5dp</dimen>
+    <dimen name="margin_espacio">10dp</dimen>
+    <dimen name="tamanio_titulo">20sp</dimen>
+    <dimen name="padding_contenedor">16dp</dimen>
+
+
+
+</resources>

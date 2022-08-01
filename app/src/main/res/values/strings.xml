@@ -1,3 +1,7 @@
 <resources>
+    <string name="numero_1">Número 1</string>
+    <string name="numero_2">Número 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="CALCULADORA">CALCULADORA</string>
     <string name="app_name">PrimerAndroide</string>
 </resources>
