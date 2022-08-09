@@ -1,4 +1,4 @@
-package com.escuela.primerandroide
+package com.example.calculadora
 
 import org.junit.Test
 
